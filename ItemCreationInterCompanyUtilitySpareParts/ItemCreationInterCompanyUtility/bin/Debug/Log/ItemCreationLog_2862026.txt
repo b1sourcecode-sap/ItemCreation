@@ -1,0 +1,14 @@
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 06/28/26 11:08:44 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_BARAHI 06/28/26 11:08:58 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_BINDHYA 06/28/26 11:09:19 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/28/26 11:09:36 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 06/28/26 11:28:02 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_LIAUTO 06/28/26 11:31:01 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_DHAPASI 06/28/26 11:31:12 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_LIQUICK 06/28/26 11:31:25 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_BARAHI 06/28/26 11:31:31 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_BINDHYA 06/28/26 11:31:37 AM
+Error in Parts Updation ItemCode:PARTSTEST360, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/28/26 11:31:42 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_BARAHI 06/28/26 11:34:54 AM
+Item Creation Sucessfully ItemCode:PARTSTEST360, Company:T_INTCOM_BINDHYA 06/28/26 11:35:05 AM
+Error in Parts Updation ItemCode:PARTSTEST360, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/28/26 11:35:10 AM

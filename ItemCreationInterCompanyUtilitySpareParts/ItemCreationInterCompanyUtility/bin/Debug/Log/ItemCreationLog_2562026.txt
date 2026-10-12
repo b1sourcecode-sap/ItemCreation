@@ -1,0 +1,9 @@
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 06/25/26 12:26:03 PM
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/25/26 12:26:04 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 06/25/26 12:46:55 PM
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/25/26 12:46:56 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 06/25/26 1:21:07 PM
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/25/26 1:21:08 PM

@@ -1,0 +1,10 @@
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE & error is: (1) Please select the item category 7/22/2026 11:53:49 AM
+Item Creation Sucessfully ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE 7/22/2026 12:00:03 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:42:29 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:43:05 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:44:13 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:49:08 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:49:55 PM
+Error in Parts Updation ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE& error is: (1) Please select the item categeory 7/22/2026 12:50:42 PM
+Item Creation Sucessfully ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE 7/22/2026 1:02:44 PM
+Item Creation Sucessfully ItemCode:98850-BV000, Company:LIBHAKTAPURLIVE 7/22/2026 1:04:26 PM

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+  
+  <ServerName>192.168.11.100:30015</ServerName>
+  <LicenseServer>192.168.11.100</LicenseServer>
+  <DesUserID>SYSTEM</DesUserID>
+  <SourceUserID>SAPADMIN</SourceUserID>
+  <Password>P@ssw0rD</Password>
+  <CurrentSchema>AUTOHUBLIVE</CurrentSchema>
+  <BaseDB>AUTOHUBLIVE</BaseDB>
+  <SapUser>SUPPORT02</SapUser>
+  <SapPassword>1@34%</SapPassword>
+
+	<SmtpServer>mail.laxmigroup.com.np</SmtpServer>
+	<SmtpPort>587</SmtpPort>
+	<SenderEmail>sap@laxmigroup.com.np</SenderEmail>
+	<SenderPassword>Sap@21</SenderPassword>
+	<RecipientEmails>spares.kpd@laxmihyundai.com, spares.dhapasi@laxmihyundai.com, spares.dhapasi1@laxmihyundai.com, spares.bkt@laxmihyundai.com, spares.quick@laxmihyundai.com, spares@limotors.com, spare1@limotors.com, spare.barahi@limotors.com</RecipientEmails>
+  
+  </CompanyDetails>

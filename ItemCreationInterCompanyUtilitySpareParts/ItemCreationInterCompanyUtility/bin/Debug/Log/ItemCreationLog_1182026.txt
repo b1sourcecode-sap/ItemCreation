@@ -1,0 +1,30 @@
+Item Creation Sucessfully ItemCode:08M34-86800, Company:T_INTCOM_LIAUTO 8/11/2026 4:06:05 PM
+Item Creation Sucessfully ItemCode:08M34-86800, Company:T_INTCOM_LIAUTO 8/11/2026 4:07:57 PM
+Item Creation Sucessfully ItemCode:08M34-86800, Company:T_INTCOM_LIAUTO 8/11/2026 4:44:00 PM
+Item Creation Sucessfully ItemCode:08M34-86800, Company:T_INTCOM_DHAPASI 8/11/2026 4:44:14 PM
+Item Creation Sucessfully ItemCode:08M34-86800, Company:T_INTCOM_LIQUICK 8/11/2026 4:44:29 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_LIAUTO 8/11/2026 5:09:32 PM
+Item Creation Sucessfully ItemCode:4500-5000, Company:T_INTCOM_LIAUTO 8/11/2026 5:09:38 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_LIAUTO 8/11/2026 5:09:43 PM
+Item Creation Sucessfully ItemCode:5500-5000, Company:T_INTCOM_LIAUTO 8/11/2026 5:09:47 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_DHAPASI 8/11/2026 5:10:00 PM
+Error in Item Updation ItemCode:4500-5000, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 8/11/2026 5:10:00 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_DHAPASI 8/11/2026 5:10:01 PM
+Error in Item Updation ItemCode:5500-5000, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 8/11/2026 5:10:01 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_LIQUICK 8/11/2026 5:10:11 PM
+Item Creation Sucessfully ItemCode:4500-5000, Company:T_INTCOM_LIQUICK 8/11/2026 5:10:12 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_LIQUICK 8/11/2026 5:10:13 PM
+Item Creation Sucessfully ItemCode:5500-5000, Company:T_INTCOM_LIQUICK 8/11/2026 5:10:13 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_LIAUTO 8/11/2026 5:13:14 PM
+Item Creation Sucessfully ItemCode:4500-5000, Company:T_INTCOM_LIAUTO 8/11/2026 5:13:15 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_LIAUTO 8/11/2026 5:13:16 PM
+Item Creation Sucessfully ItemCode:5500-5000, Company:T_INTCOM_LIAUTO 8/11/2026 5:13:17 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_DHAPASI 8/11/2026 5:13:22 PM
+Error in Item Updation ItemCode:4500-5000, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 8/11/2026 5:13:22 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_DHAPASI 8/11/2026 5:13:23 PM
+Error in Item Updation ItemCode:5500-5000, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 8/11/2026 5:13:23 PM
+Item Creation Sucessfully ItemCode:23000-34000, Company:T_INTCOM_LIQUICK 8/11/2026 5:13:28 PM
+Item Creation Sucessfully ItemCode:4500-5000, Company:T_INTCOM_LIQUICK 8/11/2026 5:13:29 PM
+Item Creation Sucessfully ItemCode:13000-24000, Company:T_INTCOM_LIQUICK 8/11/2026 5:13:30 PM
+Item Creation Sucessfully ItemCode:5500-5000, Company:T_INTCOM_LIQUICK 8/11/2026 5:13:31 PM
+Item Creation Sucessfully ItemCode:54611-1J000, Company:T_INTCOM_LIAUTO 8/11/2026 5:57:58 PM

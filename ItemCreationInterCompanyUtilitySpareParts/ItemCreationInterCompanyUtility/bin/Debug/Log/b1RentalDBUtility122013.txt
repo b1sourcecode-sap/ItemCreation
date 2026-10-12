@@ -1,0 +1,30 @@
+Company GPI_13062012 Upgrading start at 01-02-2013 12:01:52
+WMS_IGH created sucessfully.
+WMS_IGL created sucessfully.
+WMS_GPH created sucessfully.
+WMS_GPL created sucessfully.
+WMS_RENTPRM created sucessfully.
+WMS_RENTRM1 created sucessfully.
+WMS_RENTKIT created sucessfully.
+WMS_RENTIT1 created sucessfully.
+WMS_CTCT created sucessfully.
+WMS_TCT1 created sucessfully.
+WMS_CTYPH created sucessfully.
+WMS_CTYP created sucessfully.
+Sql script on GPI_13062012 completed successfully.
+Company GPI_13062012 Upgrading completed at 01-02-2013 12:01:57
+Company GPI_13062012 Upgrading start at 01-02-2013 19:43:20
+WMS_IGH created sucessfully.
+WMS_IGL created sucessfully.
+WMS_GPH created sucessfully.
+WMS_GPL created sucessfully.
+WMS_RENTPRM created sucessfully.
+WMS_RENTRM1 created sucessfully.
+WMS_RENTKIT created sucessfully.
+WMS_RENTIT1 created sucessfully.
+WMS_CTCT created sucessfully.
+WMS_TCT1 created sucessfully.
+WMS_CTYPH created sucessfully.
+WMS_CTYP created sucessfully.
+Sql script on GPI_13062012 completed successfully.
+Company GPI_13062012 Upgrading completed at 01-02-2013 19:43:23

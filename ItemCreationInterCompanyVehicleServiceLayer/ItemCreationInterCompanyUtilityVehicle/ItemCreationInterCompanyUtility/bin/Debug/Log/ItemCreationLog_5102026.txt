@@ -1,0 +1,68 @@
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:08:19 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:08:19 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:08:19 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:08:20 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:11:34 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:11:34 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:11:34 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:11:34 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:12:12 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:12:12 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:12:12 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:12:12 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:13:30 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:13:43 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:13:43 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:13:43 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:20:28 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:20:28 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:20:28 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:20:28 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:21:16 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:21:18 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:21:18 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:21:18 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 10:21:55 AM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/5/2026 10:21:55 AM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:21:55 AM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/5/2026 10:21:55 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 11:21:21 AM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 11:21:27 AM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 11:21:30 AM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 11:21:30 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 11:35:02 AM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 11:35:25 AM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 11:35:25 AM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 11:35:25 AM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 11:35:57 AM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 11:35:58 AM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 11:35:58 AM
+Connected to company DB:T_INTCOM_DHAPASI (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 11:36:08 AM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_DHAPASI 10/5/2026 11:36:11 AM
+Disconnected from company DB:T_INTCOM_DHAPASI 10/5/2026 11:36:14 AM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 11:36:14 AM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:03:18 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH & error is: -5002 - 231007823 - Valuation method not valid for item 'GS-DE+-R4R' 10/5/2026 12:03:21 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:03:26 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:03:54 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:03:58 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:03:58 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:03:58 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:14:03 PM
+Item saved successfully ItemCode:SU2EV-Excellence-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:14:05 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:14:06 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:14:06 PM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 12:15:50 PM
+Error in Item Add/Update ItemCode:SU2EV-Excellence-R4R, Company:T_INTCOM_LIAUTO & error is: -1000 - Property 'U_Colour' of 'Item' is invalid 10/5/2026 12:15:51 PM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 12:15:59 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:16:02 PM
+Item saved successfully ItemCode:SU2EV-Excellence-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:16:03 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:16:04 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:16:04 PM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 12:26:27 PM
+Item saved successfully ItemCode:SU2EV-Excellence-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 12:26:31 PM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 12:26:31 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:26:33 PM
+Item saved successfully ItemCode:SU2EV-Excellence-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:26:35 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:26:35 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:26:35 PM

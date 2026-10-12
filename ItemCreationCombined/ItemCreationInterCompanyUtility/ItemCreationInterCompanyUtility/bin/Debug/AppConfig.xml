@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+  <!-- One file for both modules. The module is chosen on the login screen (Vehicle / Spare Parts).
+       A setting inside <Vehicle> or <Parts> wins over the same setting in <Common>, so any setting
+       can be made different per module by repeating it in that module's section. -->
+
+  <Common>
+    <!-- HANA server of the base company -->
+    <ServerName>192.168.11.100:30015</ServerName>
+    <LicenseServer>192.168.11.100</LicenseServer>
+    <!-- HANA DB user. SourceUserID is used for the base company and for companies on sap.laxmigroup.com.np,
+         DesUserID for every other server. Both use the Password below. -->
+    <DesUserID>SYSTEM</DesUserID>
+    <SourceUserID>SAPADMIN</SourceUserID>
+    <Password>P@ssw0rD</Password>
+
+    <!-- SAP Business One Service Layer (items are created through it, the DI API is no longer used).
+         {server} is replaced by each company's server from @INTRCOMPITEMCR. If every company is served
+         by one Service Layer, put its full address here without {server},
+         e.g. https://sap.laxmigroup.com.np:50000/b1s/v1/ -->
+    <ServiceLayerUrl>https://{server}:50000/b1s/v1/</ServiceLayerUrl>
+    <!-- true = accept the self-signed certificate Service Layer is installed with -->
+    <ServiceLayerIgnoreCertErrors>true</ServiceLayerIgnoreCertErrors>
+
+    <!-- Summary email after Process -->
+    <SmtpServer>mail.laxmigroup.com.np</SmtpServer>
+    <SmtpPort>587</SmtpPort>
+    <SenderEmail>sap@laxmigroup.com.np</SenderEmail>
+    <SenderPassword>Sap@21</SenderPassword>
+  </Common>
+
+  <!-- Vehicle: base company, SAP user for Service Layer, email recipients (empty = no email) -->
+  <Vehicle>
+    <CurrentSchema>T_V_ITEM_CREATION</CurrentSchema>
+    <BaseDB>T_V_ITEM_CREATION</BaseDB>
+    <SapUser>B1C</SapUser>
+    <SapPassword>1@34%</SapPassword>
+    <RecipientEmails></RecipientEmails>
+  </Vehicle>
+
+  <!-- Spare Parts: base company, SAP user for Service Layer, email recipients (empty = no email) -->
+  <Parts>
+    <CurrentSchema>T_INTCOM_AUTOHUB</CurrentSchema>
+    <BaseDB>T_INTCOM_AUTOHUB</BaseDB>
+    <SapUser>B1C</SapUser>
+    <SapPassword>1@34%</SapPassword>
+    <RecipientEmails></RecipientEmails>
+  </Parts>
+
+</CompanyDetails>

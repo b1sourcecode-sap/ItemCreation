@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+  <!-- Base (source) company: same values as the previous vehicle utility -->
+  <ServerName>192.168.11.100:30015</ServerName>
+  <LicenseServer>192.168.11.100</LicenseServer>
+  <!-- HANA DB user. SourceUserID is used for the base company and for companies on sap.laxmigroup.com.np,
+       DesUserID for every other server. Both use the Password below. -->
+  <DesUserID>SYSTEM</DesUserID>
+  <SourceUserID>SAPADMIN</SourceUserID>
+  <Password>P@ssw0rD</Password>
+  <CurrentSchema>T_V_ITEM_CREATION</CurrentSchema>
+  <BaseDB>T_V_ITEM_CREATION</BaseDB>
+  <SapUser>B1C</SapUser>
+  <SapPassword>1@34%</SapPassword>
+
+  <!-- Summary email after Process. Leave RecipientEmails empty to switch the email off. -->
+  <SmtpServer>mail.laxmigroup.com.np</SmtpServer>
+  <SmtpPort>587</SmtpPort>
+  <SenderEmail>sap@laxmigroup.com.np</SenderEmail>
+  <SenderPassword>Sap@21</SenderPassword>
+  <RecipientEmails></RecipientEmails>
+
+</CompanyDetails>

@@ -1,0 +1,20 @@
+Item Creation Sucessfully ItemCode:TEST_01, Company:T_INTCOM_LIAUTO 6/22/2026 1:38:45 PM
+Item Creation Sucessfully ItemCode:TEST_01, Company:T_INTCOM_DHAPASI 6/22/2026 1:38:54 PM
+Item Creation Sucessfully ItemCode:TEST_01, Company:T_INTCOM_LIQUICK 6/22/2026 1:39:03 PM
+Error in Parts Updation ItemCode:TEST_01, Company:T_INTCOM_DHAPASI& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 1:41:19 PM
+Item Creation Sucessfully ItemCode:TEST_01, Company:T_INTCOM_DHAPASI 6/22/2026 1:42:51 PM
+Error in Parts Updation ItemCode:TEST_01, Company:T_INTCOM_DHAPASI& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 1:43:21 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 3:18:02 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 3:18:54 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 3:19:36 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 3:19:49 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 3:21:28 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 4:46:27 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 6/22/2026 4:49:55 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 6/22/2026 4:50:32 PM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIAUTO& error is: 1250000088 - Date ranges overlap; change the active or inactive date range 6/22/2026 4:54:07 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 6/22/2026 5:11:52 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 6/22/2026 5:12:36 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 6/22/2026 5:15:46 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 6/22/2026 5:16:13 PM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 6/22/2026 5:16:32 PM

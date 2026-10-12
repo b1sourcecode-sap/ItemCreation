@@ -1,0 +1,106 @@
+Item check failed in TESTLIM_INTERBRANCH (192.168.11.200) 10/4/2026 1:13:36 PM
+Error in connecting to company:T_INTCOM_LIAUTO & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:27:45 PM
+Error in connecting to company:T_INTCOM_DHAPASI & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:27:54 PM
+Error in connecting to company:T_INTCOM_LIQUICK & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:28:02 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:28:16 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:28:16 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:28:17 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:28:17 PM
+Error in connecting to company:T_INTCOM_LIAUTO & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:31:36 PM
+Error in connecting to company:T_INTCOM_DHAPASI & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:31:43 PM
+Error in connecting to company:T_INTCOM_LIQUICK & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:31:50 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:32:01 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:32:01 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:32:01 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:32:02 PM
+Error in connecting to company:T_INTCOM_LIAUTO & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:33:38 PM
+Error in connecting to company:T_INTCOM_DHAPASI & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:33:46 PM
+Error in connecting to company:T_INTCOM_LIQUICK & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:33:53 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:34:03 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:34:03 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:34:04 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:34:04 PM
+Error in connecting to company:T_INTCOM_LIAUTO & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:38:30 PM
+Error in connecting to company:T_INTCOM_DHAPASI & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:38:38 PM
+Error in connecting to company:T_INTCOM_LIQUICK & error is: Add-on has already logged on with the same account in ()(TASKSERVER1) 10/4/2026 3:38:45 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:38:55 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:38:56 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:38:56 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:38:56 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/4/2026 3:43:48 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_DHAPASI 10/4/2026 3:43:56 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIQUICK 10/4/2026 3:44:05 PM
+Error in connecting to company:UAT_LIBHAKTAPUR & error is: Add-on has already logged on with the same account in ()(TASKCENTER244) 10/4/2026 3:44:14 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:44:14 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:44:19 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:44:19 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/4/2026 3:51:36 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_DHAPASI 10/4/2026 3:51:41 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIQUICK 10/4/2026 3:51:46 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:51:55 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:51:55 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:51:55 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:51:55 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/4/2026 3:52:52 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_DHAPASI 10/4/2026 3:52:57 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIQUICK 10/4/2026 3:53:02 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR 10/4/2026 3:53:11 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 3:53:11 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 3:53:11 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 3:53:11 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 4:08:42 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:08:42 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 4:14:04 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:14:04 PM
+Error in connecting to company:T_INTCOM_AUTOHUB & error is: Error during SBO user authentication 10/4/2026 4:19:36 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:19:37 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_AUTOHUB 10/4/2026 4:22:40 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:22:40 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 4:22:40 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:30:07 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:33:26 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:38:19 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Error during SBO user authentication 10/4/2026 4:42:01 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 649
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 4:45:16 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 649
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 4:50:36 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 649
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 4:52:36 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 649
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 4:58:41 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 658
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 5:04:16 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 658
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 5:05:24 PM
+Exception ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH : System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.IFields.Item(Object Index)
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ApplyItemFields(Items oItem, ItemInput item, CompanyTarget company) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 659
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.SaveItem(CompanyTarget company, ItemInput item, String& error) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 595
+   at ItemCreationInterCompanyUtility.FrmCompanySelection.ProcessItems(List`1 companies, List`1 items) in E:\Repository\Code\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\ItemCreation.cs:line 547 10/4/2026 5:21:08 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Add-on has already logged on with the same account in ()(BISHNU-UPRETI) 10/4/2026 5:25:26 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Add-on has already logged on with the same account in ()(BISHNU-UPRETI) 10/4/2026 5:25:46 PM
+Error in connecting to company:TESTLIM_INTERBRANCH & error is: Add-on has already logged on with the same account in ()(BISHNU-UPRETI) 10/4/2026 5:28:35 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH & error is: -1116 - (2) Colour can not left blank 10/4/2026 5:30:46 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH 10/4/2026 5:43:12 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 5:43:12 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH 10/4/2026 5:45:20 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/4/2026 5:45:20 PM

@@ -1,0 +1,55 @@
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:01 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:03 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:03 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:05 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:06 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:07 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:08 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:09 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:09 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:11 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:11 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:13 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:13 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:15 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:15 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:16 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:02:17 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:02:18 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:10:57 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:10:59 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:10:59 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:01 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:01 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:03 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:03 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:05 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:05 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:06 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:07 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:08 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:09 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:10 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:11 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:12 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred6/24/2022 12:11:13 PM
+Item Creation Sucessfully ItemCode:, Company:TESTINGLAXMI6/24/2022 12:11:14 PM
+Error in Item Updation ItemCode:, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:41:55 PM
+Error in Item Updation ItemCode:23000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:56:58 PM
+Item Creation Sucessfully ItemCode:4500-5000, Company:TESTINGLAXMI 6/24/2022 4:57:44 PM
+Error in Item Updation ItemCode:13000-24000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:57:44 PM
+Item Creation Sucessfully ItemCode:5500-5000, Company:TESTINGLAXMI 6/24/2022 4:58:01 PM
+Error in Item Updation ItemCode:13000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:01 PM
+Item Creation Sucessfully ItemCode:2500-5000, Company:TESTINGLAXMI 6/24/2022 4:58:05 PM
+Error in Item Updation ItemCode:22000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:06 PM
+Item Creation Sucessfully ItemCode:4100-5000, Company:TESTINGLAXMI 6/24/2022 4:58:08 PM
+Error in Item Updation ItemCode:26000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:08 PM
+Item Creation Sucessfully ItemCode:1500-5000, Company:TESTINGLAXMI 6/24/2022 4:58:10 PM
+Error in Item Updation ItemCode:27000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:11 PM
+Item Creation Sucessfully ItemCode:1700-5000, Company:TESTINGLAXMI 6/24/2022 4:58:12 PM
+Error in Item Updation ItemCode:29000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:13 PM
+Item Creation Sucessfully ItemCode:4300-5000, Company:TESTINGLAXMI 6/24/2022 4:58:14 PM
+Error in Item Updation ItemCode:28000-34000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:15 PM
+Item Creation Sucessfully ItemCode:4200-5000, Company:TESTINGLAXMI 6/24/2022 4:58:16 PM
+Error in Item Updation ItemCode:23000-14000, Company:TESTINGLAXMI & error is: Internal error (-5002) occurred 6/24/2022 4:58:17 PM
+Item Creation Sucessfully ItemCode:4500-4000, Company:TESTINGLAXMI 6/24/2022 4:58:18 PM

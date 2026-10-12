@@ -1,0 +1,31 @@
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 12:49:46 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 12:49:50 PM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 12:49:52 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:49:55 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:49:57 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:49:57 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:49:57 PM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 12:52:13 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO 10/5/2026 12:52:16 PM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 12:52:19 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 12:52:22 PM
+Item saved successfully ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH 10/5/2026 12:52:23 PM
+Disconnected from company DB:TESTLIM_INTERBRANCH 10/5/2026 12:52:23 PM
+Summary email skipped: SmtpServer / RecipientEmails not set in AppConfig.xml 10/5/2026 12:52:23 PM
+Item check failed in T_INTCOM_AUTOHUB (sap.laxmigroup.com.np): Object reference not set to an instance of an object. 10/5/2026 12:59:05 PM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 1:09:36 PM
+Item saved successfully ItemCode:00189-S001, Company:T_INTCOM_LIAUTO 10/5/2026 1:09:41 PM
+Disconnected from company DB:T_INTCOM_LIAUTO 10/5/2026 1:09:43 PM
+Connected to company DB:T_INTCOM_DHAPASI (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 1:09:46 PM
+Error in Item Add/Update ItemCode:00189-S001, Company:T_INTCOM_DHAPASI & error is: Item group 'PARTS -I-20' not found in this company. 10/5/2026 1:09:47 PM
+Disconnected from company DB:T_INTCOM_DHAPASI 10/5/2026 1:09:48 PM
+Connected to company DB:T_INTCOM_LIQUICK (https://192.168.11.200:50000/b1s/v1/) 10/5/2026 1:09:52 PM
+Item saved successfully ItemCode:00189-S001, Company:T_INTCOM_LIQUICK 10/5/2026 1:09:58 PM
+Disconnected from company DB:T_INTCOM_LIQUICK 10/5/2026 1:09:59 PM
+Connected to company DB:T_INTCOM_AUTOHUB (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/5/2026 1:10:01 PM
+Item saved successfully ItemCode:00189-S001, Company:T_INTCOM_AUTOHUB 10/5/2026 1:10:04 PM
+Disconnected from company DB:T_INTCOM_AUTOHUB 10/5/2026 1:10:04 PM
+Connected to company DB:UAT_LIBHAKTAPUR (https://172.16.1.100:50000/b1s/v1/) 10/5/2026 1:10:08 PM
+Item saved successfully ItemCode:00189-S001, Company:UAT_LIBHAKTAPUR 10/5/2026 1:10:11 PM
+Disconnected from company DB:UAT_LIBHAKTAPUR 10/5/2026 1:10:11 PM
+EMAIL ERROR: A recipient must be specified. 10/5/2026 1:10:11 PM

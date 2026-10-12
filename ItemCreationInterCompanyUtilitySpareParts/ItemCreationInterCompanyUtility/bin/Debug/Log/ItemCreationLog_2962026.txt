@@ -1,0 +1,20 @@
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/29/26 10:36:21 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 06/29/26 11:01:42 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_BINDHYA 06/29/26 11:04:40 AM
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/29/26 11:04:59 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/29/26 11:09:21 AM
+
+ Error in conneting to company:T_INTCOM_AUTOHUB& error is: Error during SBO user authentication 06/29/26 11:09:59 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_AUTOHUB 06/29/26 11:29:34 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIAUTO 06/29/26 11:43:11 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_DHAPASI & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 06/29/26 11:43:19 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_LIQUICK 06/29/26 11:43:30 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_BARAHI 06/29/26 11:43:41 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_BINDHYA 06/29/26 11:43:47 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/29/26 11:43:53 AM
+Item Creation Sucessfully ItemCode:TESTFX, Company:T_INTCOM_AUTOHUB 06/29/26 11:44:01 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/29/26 11:47:38 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/29/26 11:49:07 AM
+Error in Parts Updation ItemCode:TESTFX, Company:T_INTCOM_LIBHAKTAPUR & error is: (1) Please select the item category 06/29/26 11:51:33 AM

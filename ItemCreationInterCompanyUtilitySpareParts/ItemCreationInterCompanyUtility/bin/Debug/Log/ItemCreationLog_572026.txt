@@ -1,0 +1,38 @@
+Error in Item Updation ItemCode:23000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:4500-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:13000-24000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:5500-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:13000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:2500-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:22000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:4100-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:26000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:1500-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:53 AM
+Error in Item Updation ItemCode:27000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:1700-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:29000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:4300-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:28000-34000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:4200-5000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:23000-14000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Error in Item Updation ItemCode:4500-4000, Company:DHAPASILIVE & error is:  [OITM.ItmsGrpCod] , 'Linked value 0 does not exist' 7/5/2026 10:51:54 AM
+Item Creation Sucessfully ItemCode:23000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:01 AM
+Item Creation Sucessfully ItemCode:4500-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:02 AM
+Item Creation Sucessfully ItemCode:13000-24000, Company:AUTOHUBLIVE 7/5/2026 10:52:04 AM
+Item Creation Sucessfully ItemCode:5500-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:05 AM
+Item Creation Sucessfully ItemCode:13000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:07 AM
+Item Creation Sucessfully ItemCode:2500-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:08 AM
+Item Creation Sucessfully ItemCode:22000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:10 AM
+Item Creation Sucessfully ItemCode:4100-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:11 AM
+Item Creation Sucessfully ItemCode:26000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:13 AM
+Item Creation Sucessfully ItemCode:1500-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:15 AM
+Item Creation Sucessfully ItemCode:27000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:16 AM
+Item Creation Sucessfully ItemCode:1700-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:17 AM
+Item Creation Sucessfully ItemCode:29000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:19 AM
+Item Creation Sucessfully ItemCode:4300-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:20 AM
+Item Creation Sucessfully ItemCode:28000-34000, Company:AUTOHUBLIVE 7/5/2026 10:52:22 AM
+Item Creation Sucessfully ItemCode:4200-5000, Company:AUTOHUBLIVE 7/5/2026 10:52:23 AM
+Item Creation Sucessfully ItemCode:23000-14000, Company:AUTOHUBLIVE 7/5/2026 10:52:25 AM
+Item Creation Sucessfully ItemCode:4500-4000, Company:AUTOHUBLIVE 7/5/2026 10:52:26 AM
+Item Creation Sucessfully ItemCode:07100-J2A21QQH, Company:DHAPASILIVE 7/5/2026 10:58:34 AM
+Item Creation Sucessfully ItemCode:07100-J2A21QQH, Company:AUTOHUBLIVE 7/5/2026 10:58:40 AM

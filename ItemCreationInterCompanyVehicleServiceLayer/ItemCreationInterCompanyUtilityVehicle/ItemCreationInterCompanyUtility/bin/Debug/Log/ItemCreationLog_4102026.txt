@@ -1,0 +1,28 @@
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/4/2026 5:58:16 PM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/4/2026 5:58:16 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:16 PM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:16 PM
+Connected to company DB:T_INTCOM_DHAPASI (https://192.168.11.200:50000/b1s/v1/) 10/4/2026 5:58:21 PM
+Could not read user field types in T_INTCOM_DHAPASI : 301 - Invalid session or session already timeout. 10/4/2026 5:58:21 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_DHAPASI & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:21 PM
+Error in disconnecting from company:T_INTCOM_DHAPASI & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:21 PM
+Connected to company DB:T_INTCOM_LIQUICK (https://192.168.11.200:50000/b1s/v1/) 10/4/2026 5:58:26 PM
+Could not read user field types in T_INTCOM_LIQUICK : 301 - Invalid session or session already timeout. 10/4/2026 5:58:26 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIQUICK & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:26 PM
+Error in disconnecting from company:T_INTCOM_LIQUICK & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:26 PM
+Connected to company DB:UAT_LIBHAKTAPUR (https://172.16.1.100:50000/b1s/v1/) 10/4/2026 5:58:29 PM
+Could not read user field types in UAT_LIBHAKTAPUR : 301 - Invalid session or session already timeout. 10/4/2026 5:58:29 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:UAT_LIBHAKTAPUR & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:29 PM
+Error in disconnecting from company:UAT_LIBHAKTAPUR & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:29 PM
+Connected to company DB:T_INTCOM_AUTOHUB (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/4/2026 5:58:32 PM
+Could not read user field types in T_INTCOM_AUTOHUB : 301 - Invalid session or session already timeout. 10/4/2026 5:58:32 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_AUTOHUB & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:32 PM
+Error in disconnecting from company:T_INTCOM_AUTOHUB & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:32 PM
+Connected to company DB:TESTLIM_INTERBRANCH (https://sap.laxmigroup.com.np:50000/b1s/v1/) 10/4/2026 5:58:35 PM
+Could not read user field types in TESTLIM_INTERBRANCH : 301 - Invalid session or session already timeout. 10/4/2026 5:58:35 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:TESTLIM_INTERBRANCH & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:35 PM
+Error in disconnecting from company:TESTLIM_INTERBRANCH & error is: 301 - Invalid session or session already timeout. 10/4/2026 5:58:35 PM
+Connected to company DB:T_INTCOM_LIAUTO (https://192.168.11.200:50000/b1s/v1/) 10/4/2026 6:01:52 PM
+Could not read user field types in T_INTCOM_LIAUTO : 301 - Invalid session or session already timeout. 10/4/2026 6:01:52 PM
+Error in Item Add/Update ItemCode:GS-DE+-R4R, Company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/4/2026 6:01:52 PM
+Error in disconnecting from company:T_INTCOM_LIAUTO & error is: 301 - Invalid session or session already timeout. 10/4/2026 6:01:52 PM
